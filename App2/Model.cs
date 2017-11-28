@@ -8,6 +8,6 @@ namespace App2
 {
     public class Model
     {
-
+        string getData = string.Empty;
     }
 }
