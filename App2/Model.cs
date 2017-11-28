@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace App2
 {
-    class Model
+    public class Model
     {
+
     }
 }
